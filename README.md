@@ -1,7 +1,7 @@
 The code in this repository reproduces the analysis presented in ["How well does the implementation of corporate zero-deforestation commitments in Indonesia align with aims to halt deforestation and include smallholders?"](publicationlink).
 
 ## Authors
-The study was designed by [Adelina Chandra, Rachael Garrett, Kimberly Carlson, Robert Heilmayr, Matthieu Stigler, Jason Benedict, Janina Grabs]. The code was written by [Adelina Chandra].
+The study was designed by Adelina Chandra, Rachael Garrett, Kimberly Carlson, Robert Heilmayr, Matthieu Stigler, Jason Benedict, Janina Grabs. The code was written by Adelina Chandra.
 
 ## Data Download
 
