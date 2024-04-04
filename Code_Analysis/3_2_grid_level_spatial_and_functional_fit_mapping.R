@@ -248,4 +248,4 @@ all(!st_is_empty(output_data))
 
 #---- Export data -----------------------------------------------------------------------------------------------------------------  
 # Grid_level spatial and functional fit output 
-st_write(output_data, "Chandraetal2024_indo_all_variables_grid_inside_millshedChandraetal2024_grid_level_spatial_functional_fit.geojson", delete_dsn = TRUE)
+st_write(output_data, "Chandraetal2024_grid_level_spatial_functional_fit.geojson", delete_dsn = TRUE)
