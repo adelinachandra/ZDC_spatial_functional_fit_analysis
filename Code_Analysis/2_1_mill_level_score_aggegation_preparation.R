@@ -48,6 +48,7 @@ zdc_quality <- read_csv("Chandraetal2024_SPOTT_ZDC_quality_2018-2020.csv")
 matching_id <- read_rds("Supporting_files/spott_trase_matching_company_list.rds") 
 
 # TRASE cleaned list 
+# Source data publicly accessible at https://trase.earth/open-data/supply-chains/indonesia-palm-oil
 ts_list <- read_rds("Supporting_files/TRASE_list.rds") 
 
 #---- Prepare data -----------------------------------------------------------------------------------------------------------------

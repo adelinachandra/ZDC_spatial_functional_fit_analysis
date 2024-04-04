@@ -55,6 +55,7 @@ TRASE_list_by_MILL_GROUP <- read_rds("Data_input/In_process/TRASE_list_by_MILL_G
 TRASE_list_Ref_Mill <- read_rds("Data_input/In_process/TRASE_list_by_REF_MILL_GROUP.rds") %>% select(-smh_ref, -smh_mill)
 
 # Mill locations
+# Pubicly accessible at https://dataverse.harvard.edu/dataset.xhtml?persistentId=doi:10.7910/DVN/SMPITC
 mills_locs <- read_rds("Supporting_files/mills_locations.rds") 
 
 #-------- Define functions for score aggregation -------------------------------------------------------------------------------------------------------------
