@@ -1,11 +1,11 @@
-The code in this repository reproduces the analysis presented in ["How well does the implementation of corporate zero-deforestation commitments in Indonesia align with aims to halt deforestation and include smallholders?"](publicationlink).
+The code in this repository reproduces the analysis presented in ["How well does the implementation of corporate zero-deforestation commitments in Indonesia align with aims to halt deforestation and include smallholders?"](https://iopscience.iop.org/article/10.1088/1748-9326/ad33d1).
 
 ## Authors
 The study was designed by Adelina Chandra, Rachael Garrett, Kimberly Carlson, Robert Heilmayr, Matthieu Stigler, Jason Benedict, Janina Grabs. The code was written by Adelina Chandra.
 
 ## Data Download
 
-Pre-processed data used in this analysis can be downloaded from [Zenodo](link). Other data is available upon request.
+Pre-processed data used in this analysis can be downloaded from [Zenodo](https://zenodo.org/records/10609765). Other supporting data is available upon request.
 
 ## Description
 
